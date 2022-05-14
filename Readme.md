@@ -1,0 +1,1 @@
+O meu primeiro projeto com JavaScript, conseguir programar um calculadora usando meus conhecimentos básicos de JavaScript.
